@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuxendev/magic-find.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuxendev/magic-find/issues"
+  },
+  "homepage": "https://github.com/Tuxendev/magic-find#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
